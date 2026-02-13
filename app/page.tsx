@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import SiteNav from "@/components/site-nav";
 import SiteFooter from "@/components/site-footer";
+import ServicesGrid from "@/components/services-grid";
 import realizationsData from "@/data/realizations.json";
 import homeContent from "@/data/home-content.json";
 
@@ -82,7 +83,7 @@ export default function Home() {
                   </p>
                   <p className="whitespace-nowrap text-3xl font-bold text-blue-500 md:text-5xl">
                     {homeContent.flowM3h}
-                    {"\u00A0"}m3/h
+                    {"\u00A0"}m³/h
                   </p>
                 </div>
               </div>
@@ -99,6 +100,14 @@ export default function Home() {
               </div>
             </div>
           </div>
+        </section>
+
+        <section className="container-main py-12 md:py-14">
+          <div className="text-center">
+            <div className="mx-auto mb-4 h-1 w-20 bg-[#223a82]" />
+            <h2 className="text-4xl font-semibold text-slate-900 md:text-5xl">Uslugi</h2>
+          </div>
+          <ServicesGrid className="mt-10" />
         </section>
 
         <section className="container-main py-14">
@@ -124,6 +133,28 @@ export default function Home() {
             <Link href="/realizacje" className="inline-flex text-base font-semibold text-[#223a82] hover:text-[#182c66]">
               Zobacz wszystkie realizacje
             </Link>
+          </div>
+        </section>
+
+        <section className="container-main pb-8 md:pb-12">
+          <div className="relative h-[260px] overflow-hidden rounded-sm md:h-[360px]">
+            <Image
+              src="/images/bottom-banner/background.jpg"
+              alt="Tlo baneru"
+              fill
+              className="object-cover"
+              sizes="100vw"
+            />
+            <div className="absolute inset-0 bg-slate-900/30" />
+            <div className="absolute inset-0 flex items-end justify-center">
+              <Image
+                src="/images/bottom-banner/domito.png"
+                alt="Autoryzowany serwis Domito HVAC"
+                width={1024}
+                height={518}
+                className="h-[84%] w-auto object-contain"
+              />
+            </div>
           </div>
         </section>
       </main>

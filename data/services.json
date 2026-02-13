@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "order": 1,
+    "slug": "pompy-ciepla",
+    "title": "Pompy ciepła",
+    "cardTitle": "Pompy ciepła",
+    "cardText": "Dobór pomp ciepła na podstawie specyfikacji projektu lub wizji lokalnej oraz ich montaż.",
+    "pageParagraphs": [
+      "Kompleksowa kotłownia Domito z pompą ciepła to rozwiązanie, które zapewnia stały komfort cieplny w obsługiwanym budynku. Urządzenia Domito wyposażone są w dodatkowe funkcje pozwalające w pełni obsłużyć nawet najbardziej zaawansowane instalacje grzewcze i chłodnicze.",
+      "Kompleksowa zabudowa zapewnia kompletną gwarancję producenta na wiele elementów standardowej kotłowni, w tym pełny monitoring przez aplikację internetową. Rozwiązanie dla budynków o zapotrzebowaniu cieplnym od 6 kW do 20 kW."
+    ],
+    "pageBullets": [
+      "kompatybilny węzeł cieplno-chłodzący z wyświetlaczem umożliwiającym zarządzanie pracą całej kotłowni",
+      "rozwiązanie dla budynków o zapotrzebowaniu cieplnym od 6kW do 20kW",
+      "w pełni automatyczne urządzenie zapewniające komfort cieplny pod kątem grzania i chłodzenia",
+      "moduł ciepłej wody użytkowej (CWU) eliminujący kosztowne rozwiązania wężownicy w przypadku pomp ciepła",
+      "moduł chłodzenia pasywnego pozwalający na wykorzystanie gruntu jako zasobnika chłodu",
+      "do 6 niezależnych obwodów grzewczych pozwalających na utrzymywanie temperatury na różnym poziomie",
+      "moduł zarządzania dolnym źródłem pozwalający wykorzystać ciepło odpadowe z central wentylacyjnych lub pomieszczeń chłodzonych",
+      "możliwa współpraca z różnymi typami dolnego źródła w tym kolektorem pionowym, poziomym",
+      "współpraca z innymi źródłami ciepła (kotem gazowym, kolektorami słonecznymi, kominkiem)",
+      "wbudowane trzy pompy obiegowe wysokoefektywne: solanki i wody grzewczej oraz nierdzewna pompa obiegowa ładowania zasobnika, ponadto: grupa bezpieczeństwa z zaworami bezpieczeństwa, czujniki ciśnienia i odpowietrzniki",
+      "zdalny dostęp do podglądu bieżącej i archiwalnej pracy pomp ciepła przez internet dzięki aplikacji",
+      "sterownik współpracujący z BMS lub inteligentnymi domami",
+      "możliwość aktywnego chłodzenia z wykorzystaniem bufora chłodu",
+      "wysoka efektywność przez cały rok, przy każdych warunkach, dzięki innowacyjnemu autorskiemu sterowaniu elektronicznym zaworem rozprężającym z funkcjami: quick check i security first",
+      "najbardziej renomowani dostawcy elementów: Copeland Scroll, SWEP, Carel, Grundfos"
+    ],
+    "image": "/images/services/pompy-ciepla.jpg"
+  },
+  {
+    "id": "s2",
+    "order": 2,
+    "slug": "plaszczyznowe-systemy-grzewcze",
+    "title": "Płaszczyznowe systemy grzewcze",
+    "cardTitle": "Płaszczyznowe systemy grzewcze",
+    "cardText": "Ogrzewanie podłogowe i ścienne z pełną konfiguracją układu grzewczego.",
+    "pageParagraphs": [
+      "Specjalizujemy się w doborze i wykonawstwie systemów grzewczych płaszczyznowych podłogowych oraz ściennych, przeznaczonych do ogrzewania nisko temperaturowego dedykowanych pod pompy ciepła i inne nisko temperaturowe systemy grzewcze."
+    ],
+    "pageBullets": [],
+    "image": "/images/services/plaszczyznowe.jpg"
+  },
+  {
+    "id": "s3",
+    "order": 3,
+    "slug": "uzdatnianie-wody",
+    "title": "Uzdatnianie wody",
+    "cardTitle": "Systemy uzdatniania wody",
+    "cardText": "Stacje uzdatniania i filtracja do zastosowań domowych oraz technologicznych.",
+    "pageParagraphs": [
+      "Oferujemy dobór i wykonawstwo stacji przygotowania wody dla przemysłu, jak również dla odbiorcy indywidualnego. Współpracujemy z czołowymi producentami urządzeń uzdatniania wody oraz środków chemicznych używanych w procesach uzdatniania o zasięgu globalnym.",
+      "Po więcej informacji prosimy kontaktować się z nami poprzez formularz kontaktowy."
+    ],
+    "pageBullets": [],
+    "image": "/images/services/uzdatnianie.jpg"
+  },
+  {
+    "id": "s4",
+    "order": 4,
+    "slug": "instalacje-technologiczne",
+    "title": "Instalacje technologiczne",
+    "cardTitle": "Przemysłowe instalacje technologiczne",
+    "cardText": "Kompletne instalacje technologiczne dla obiektów produkcyjnych i usługowych.",
+    "pageParagraphs": [
+      "Zajmujemy się doborem i wykonawstwem przemysłowych instalacji technologicznych w zrównoważonym stopniu rozwoju dla transportowanego medium oraz doboru pod kątem wytrzymałości ciśnieniowej.",
+      "Wykonujemy dobór i wykonawstwo instalacji dozujących do 180 bar.",
+      "Po więcej informacji prosimy kontaktować się z nami poprzez formularz kontaktowy."
+    ],
+    "pageBullets": [],
+    "image": "/images/services/instalacje-technologiczne.jpg"
+  }
+]
