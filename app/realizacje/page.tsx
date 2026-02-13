@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import SiteNav from "@/components/site-nav";
 import SiteFooter from "@/components/site-footer";
 import realizationsData from "@/data/realizations.json";
@@ -6,12 +7,17 @@ import realizationsData from "@/data/realizations.json";
 type Realization = {
   id: string;
   order: number;
+  slug: string;
   title: string;
   date: string;
   excerpt: string;
   category: string;
   image: string;
+  heroImage: string;
   link: string;
+  sourceLink: string;
+  contentParagraphs: string[];
+  contentBullets: string[];
 };
 
 const realizations = [...(realizationsData as Realization[])].sort((a, b) => a.order - b.order);
@@ -32,7 +38,9 @@ export default function RealizacjePage() {
                 <h2 className="mt-2 text-lg font-semibold leading-tight">{item.title}</h2>
                 <p className="mt-2 text-sm text-slate-500">{item.date}</p>
                 <p className="mt-3 text-sm leading-6 text-slate-700">{item.excerpt}</p>
-                <a href={item.link} target="_blank" rel="noreferrer" className="mt-4 inline-flex text-sm font-semibold text-cyan-700 hover:text-cyan-900">Czytaj wiecej</a>
+                <Link href={item.link} className="mt-4 inline-flex text-sm font-semibold text-cyan-700 hover:text-cyan-900">
+                  Czytaj wiecej
+                </Link>
               </div>
             </article>
           ))}
