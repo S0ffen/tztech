@@ -1,0 +1,122 @@
+[
+	{
+		"id": "r1",
+		"order": 1,
+		"title": "Maszynownia Szkoly Podstawowej w Dziergowicach",
+		"date": "20 czerwca, 2024",
+		"excerpt": "Wykonanie maszynowni w Szkole Podstawowej w Dziergowicach.",
+		"category": "Inwestycje",
+		"image": "/images/realizacje/realizacja-1.jpg",
+		"link": "https://tztech.pl/maszynownia-szkoly-podstawowej-w-dziergowicach/"
+	},
+	{
+		"id": "r2",
+		"order": 2,
+		"title": "Pompa ciepla dla domu pietrowego o mocy 6 kW",
+		"date": "18 czerwca, 2024",
+		"excerpt": "Wykonanie montazu pompy ciepla o mocy 6 kW.",
+		"category": "Indywidualna",
+		"image": "/images/realizacje/realizacja-2.jpg",
+		"link": "https://tztech.pl/pompa-ciepla-dla-domu-pietrowego-o-mocy-6kw/"
+	},
+	{
+		"id": "r3",
+		"order": 3,
+		"title": "Pompa 6 kW w domu jednorodzinnym dwupietrowym",
+		"date": "18 czerwca, 2024",
+		"excerpt": "Montaz pompy ciepla o mocy 6 kW dla budynku mieszkalnego.",
+		"category": "Indywidualna",
+		"image": "/images/realizacje/realizacja-3.jpg",
+		"link": "https://tztech.pl/pompa-6-kw-w-domu-jednorodzinnym-dwupietrowym/"
+	},
+	{
+		"id": "r4",
+		"order": 4,
+		"title": "Przemyslowa stacja odwroconej osmozy",
+		"date": "18 czerwca, 2024",
+		"excerpt": "Wykonanie stacji odwroconej osmozy o przeplywie 900 l/h.",
+		"category": "Inwestycje",
+		"image": "/images/realizacje/realizacja-4.jpg",
+		"link": "https://tztech.pl/przemyslowa-stacja-odwroconej-osmozy/"
+	},
+	{
+		"id": "r5",
+		"order": 5,
+		"title": "Pompa ciepla 6 kW dla domu jednorodzinnego parterowego",
+		"date": "18 czerwca, 2024",
+		"excerpt": "Montaz pompy ciepla o mocy 6 kW i uruchomienie instalacji.",
+		"category": "Indywidualna",
+		"image": "/images/realizacje/realizacja-5.jpg",
+		"link": "https://tztech.pl/pompa-ciepla-6-kw-dla-domu-jednorodzinnego/"
+	},
+	{
+		"id": "r6",
+		"order": 6,
+		"title": "Pompa ciepla dla klienta indywidualnego z chlodzeniem",
+		"date": "18 czerwca, 2024",
+		"excerpt": "Modernizacja maszynowni i przygotowanie ukladu do chlodzenia.",
+		"category": "Inwestycje",
+		"image": "/images/realizacje/realizacja-6.jpg",
+		"link": "https://tztech.pl/pompa-ciepla-dla-klienta-indywidualnego-z-funkcja-chlodzenia-i-odzyskiem-ciepla/"
+	},
+	{
+		"id": "r7",
+		"order": 7,
+		"title": "Hala Sportowa w Dziergowicach",
+		"date": "18 czerwca, 2024",
+		"excerpt": "Wykonanie maszynowni dla nowopowstalej hali sportowej.",
+		"category": "Inwestycje",
+		"image": "/images/realizacje/realizacja-7.jpg",
+		"link": "https://tztech.pl/hala-sportowa-w-dziergowicach/"
+	},
+	{
+		"id": "r8",
+		"order": 8,
+		"title": "Dezynfekcja skazenia biologicznego w budynku prywatnym",
+		"date": "28 sierpnia, 2023",
+		"excerpt": "Wykonana dezynfekcja instalacji po wykryciu skazenia biologicznego.",
+		"category": "Indywidualna",
+		"image": "/images/realizacje/realizacja-8.jpg",
+		"link": "https://tztech.pl/dezynfekcja-skazenia-biologicznego-w-budynku-prywatnym/"
+	},
+	{
+		"id": "r9",
+		"order": 9,
+		"title": "Modernizacja wody uzytkowej oraz kanalizacji Nowa Wies",
+		"date": "28 sierpnia, 2023",
+		"excerpt": "Modernizacja instalacji wody uzytkowej i kanalizacji.",
+		"category": "Inwestycje",
+		"image": "/images/realizacje/realizacja-9.jpg",
+		"link": "https://tztech.pl/modernizacja-wody-uzytkowej-oraz-kanalizacji-nowa-wies/"
+	},
+	{
+		"id": "r10",
+		"order": 10,
+		"title": "Pompa ciepla 20 kW dla domu jednorodzinnego",
+		"date": "28 sierpnia, 2023",
+		"excerpt": "Montaz pompy ciepla o mocy 20 kW marki Domito.",
+		"category": "Indywidualna",
+		"image": "/images/realizacje/realizacja-10.jpg",
+		"link": "https://tztech.pl/pompa-ciepla-o-mocy-20kw-dla-domu-jednorodzinnego-wegierska-gorka/"
+	},
+	{
+		"id": "r11",
+		"order": 11,
+		"title": "Pompa ciepla i rekuperacja z funkcja chlodzenia",
+		"date": "28 sierpnia, 2023",
+		"excerpt": "Komplet instalacji CWU, ZWU, ogrzewania i rekuperacji.",
+		"category": "Indywidualna",
+		"image": "/images/realizacje/realizacja-11.jpg",
+		"link": "https://tztech.pl/pompa-ciepla-oraz-rekuperacja-z-funkcja-chlodzenia-z-pompy-ciepla-w-domu-jednorodzinnym-w-zywcu/"
+	},
+	{
+		"id": "r12",
+		"order": 12,
+		"title": "Modernizacja kotlowni w DPS Ostoja",
+		"date": "27 sierpnia, 2023",
+		"excerpt": "Integracja obecnego systemu i przygotowanie cieplej wody uzytkowej.",
+		"category": "Inwestycje",
+		"image": "/images/realizacje/realizacja-12.jpg",
+		"link": "https://tztech.pl/modernizacja-kotlowni-w-domu-pomocy-spolecznej-ostoja-w-sosnicowicach/"
+	}
+]
