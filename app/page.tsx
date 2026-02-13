@@ -3,6 +3,7 @@ import Image from "next/image";
 import SiteNav from "@/components/site-nav";
 import SiteFooter from "@/components/site-footer";
 import realizationsData from "@/data/realizations.json";
+import homeContent from "@/data/home-content.json";
 
 type Realization = {
   id: string;
@@ -22,39 +23,94 @@ export default function Home() {
     <div>
       <SiteNav />
       <main>
-        <section className="relative overflow-hidden bg-slate-950 py-24 text-white">
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,_rgba(14,165,233,0.3),_transparent_45%),radial-gradient(circle_at_bottom_right,_rgba(59,130,246,0.28),_transparent_50%)]" />
-          <div className="container-main relative grid gap-8 lg:grid-cols-[1.15fr_0.85fr] lg:items-center">
-            <div>
-              <p className="mb-3 inline-flex rounded-full border border-white/25 px-4 py-1 text-xs uppercase tracking-[0.2em]">Inzynieria instalacji</p>
-              <h1 className="text-4xl font-semibold leading-tight md:text-5xl">Systemy grzewcze, pompy ciepla i uzdatnianie wody</h1>
-              <p className="mt-5 max-w-xl text-slate-200">Kopia strony TZTech z odtworzonymi podstronami i realizacjami. Sekcja realizacji jest edytowalna z pliku JSON.</p>
-              <div className="mt-8 flex flex-wrap gap-3">
-                <Link href="/realizacje" className="rounded-md bg-cyan-400 px-5 py-3 text-sm font-semibold text-slate-950 hover:bg-cyan-300">Zobacz realizacje</Link>
-                <Link href="/kontakt" className="rounded-md border border-white/30 px-5 py-3 text-sm font-semibold text-white hover:bg-white/10">Kontakt</Link>
+        <section className="container-main pt-6 md:pt-8">
+          <div className="relative isolate overflow-hidden rounded-none bg-slate-950 text-white md:rounded-sm">
+            <div className="absolute inset-0">
+              {homeContent.heroSlides.map((src, index) => (
+                <div
+                  key={src}
+                  className="hero-slide absolute inset-0"
+                  style={{ animationDelay: `${index * 5}s` }}
+                >
+                  <Image
+                    src={src}
+                    alt="TZTech hero"
+                    fill
+                    priority={index === 0}
+                    className="hero-slide-image object-cover"
+                    sizes="100vw"
+                  />
+                </div>
+              ))}
+            </div>
+            <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(3,13,48,0.66),rgba(11,32,93,0.78))]" />
+            <div className="relative px-6 pb-28 pt-16 md:px-14 md:pb-32 md:pt-20">
+              <h1 className="max-w-4xl text-3xl font-bold leading-tight md:text-6xl">
+                {homeContent.heroTitle}
+              </h1>
+              <p className="mt-5 max-w-3xl text-base text-slate-200 md:text-2xl md:leading-9">
+                {homeContent.heroLead}
+              </p>
+              <div className="mt-8">
+                <Link
+                  href="/o-nas"
+                  className="inline-flex items-center gap-6 text-sm font-semibold uppercase tracking-wider text-slate-100 transition hover:text-white"
+                >
+                  <span className="h-px w-16 bg-white/80" />
+                  Wiecej...
+                </Link>
               </div>
             </div>
-            <div className="rounded-2xl border border-white/20 bg-white/10 p-6 backdrop-blur">
-              <p className="text-sm text-slate-200">Zakres uslug</p>
-              <ul className="mt-4 space-y-2 text-sm text-slate-100">
-                <li>Pompy ciepla</li>
-                <li>Plaszczyznowe systemy grzewcze</li>
-                <li>Uzdatnianie wody</li>
-                <li>Instalacje technologiczne</li>
-              </ul>
+            <div className="absolute inset-x-0 bottom-0 h-16 bg-white [clip-path:polygon(0_58%,100%_92%,100%_100%,0_100%)]" />
+          </div>
+
+          <div className="relative z-10 mx-auto -mt-12 rounded-sm bg-white p-6 shadow-[0_10px_30px_rgba(15,23,42,0.12)] md:p-10">
+            <div className="grid gap-8 lg:grid-cols-[1.6fr_1fr]">
+              <div className="space-y-8">
+                <div className="flex items-center justify-between gap-4 border-b border-slate-200 pb-6">
+                  <p className="text-2xl font-semibold text-slate-800 md:text-4xl">
+                    Moc grzewcza zainstalowanych urzadzen:
+                  </p>
+                  <p className="whitespace-nowrap text-3xl font-bold text-red-700 md:text-5xl">
+                    {homeContent.powerKw}
+                    {"\u00A0"}kW
+                  </p>
+                </div>
+                <div className="flex items-center justify-between gap-4">
+                  <p className="text-2xl font-semibold text-slate-800 md:text-4xl">
+                    Maksymalny przeplyw filtrowanej wody:
+                  </p>
+                  <p className="whitespace-nowrap text-3xl font-bold text-blue-500 md:text-5xl">
+                    {homeContent.flowM3h}
+                    {"\u00A0"}m3/h
+                  </p>
+                </div>
+              </div>
+
+              <div className="border-l-0 border-slate-300 lg:border-l lg:pl-8">
+                <h2 className="text-4xl font-semibold text-slate-800">Kontakt</h2>
+                <ul className="mt-4 space-y-4 text-lg text-slate-700 md:text-xl">
+                  {homeContent.contactItems.map((item) => (
+                    <li key={item} className="border-b border-slate-200 pb-3">
+                      {item}
+                    </li>
+                  ))}
+                </ul>
+              </div>
             </div>
           </div>
         </section>
 
         <section className="container-main py-14">
-          <div className="flex items-end justify-between gap-4">
-            <h2 className="text-3xl font-semibold">Wybrane realizacje</h2>
-            <Link href="/realizacje" className="text-sm font-semibold text-cyan-700 hover:text-cyan-900">Wszystkie realizacje</Link>
+          <div className="text-center">
+            <div className="mx-auto mb-4 h-1 w-20 bg-[#223a82]" />
+            <h2 className="text-4xl font-semibold text-slate-900 md:text-5xl">Wybrane realizacje</h2>
           </div>
-          <div className="mt-8 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+
+          <div className="mt-10 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
             {realizations.slice(0, 6).map((item) => (
-              <article key={item.id} className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
-                <Image src={item.image} alt={item.title} width={768} height={420} className="h-48 w-full object-cover" />
+              <article key={item.id} className="overflow-hidden rounded-sm border border-slate-200 bg-white shadow-sm">
+                <Image src={item.image} alt={item.title} width={768} height={420} className="h-52 w-full object-cover transition duration-500 hover:scale-105" />
                 <div className="p-5">
                   <p className="text-xs uppercase tracking-[0.15em] text-slate-500">{item.category}</p>
                   <h3 className="mt-2 text-lg font-semibold leading-tight">{item.title}</h3>
@@ -63,6 +119,11 @@ export default function Home() {
                 </div>
               </article>
             ))}
+          </div>
+          <div className="mt-8 text-center">
+            <Link href="/realizacje" className="inline-flex text-base font-semibold text-[#223a82] hover:text-[#182c66]">
+              Zobacz wszystkie realizacje
+            </Link>
           </div>
         </section>
       </main>

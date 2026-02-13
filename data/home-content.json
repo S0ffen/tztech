@@ -1,0 +1,18 @@
+{
+  "powerKw": 350,
+  "flowM3h": 350,
+  "heroTitle": "Systemy grzewcze, pompy ciepla, uzdatnianie wody, instalacje technologiczne",
+  "heroLead": "Jestesmy rodzinna spolka wywodzaca sie z wielopokoleniowego doswiadczenia w wykonawstwie instalacji grzewczych, sanitarnych i technologicznych.",
+  "heroSlides": [
+    "/images/hero/hero-1.jpg",
+    "/images/hero/hero-2.jpg",
+    "/images/hero/hero-3.jpg",
+    "/images/hero/hero-4.jpg"
+  ],
+  "contactItems": [
+    "506 197 848",
+    "506 195 968",
+    "biuro@tztech.pl",
+    "ul. Gorska 15, 34-324 Twardorzeczka"
+  ]
+}
