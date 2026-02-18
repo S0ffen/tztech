@@ -1,0 +1,43 @@
+{
+  "title": "O Nas",
+  "paragraphs": [
+    "Jesteśmy rodzinną spółką wywodzącą się z wielopokoleniowego doświadczenia w wykonawstwie instalacji grzewczych, sanitarnych i technologicznych.",
+    "Specjalizujemy się w instalacji systemów grzewczych, takich jak pompy ciepła oraz płaszczyznowe systemy grzewcze. Zajmujemy się również uzdatnianiem wody do celów przemysłowych oraz dla odbiorcy indywidualnego. Wykonujemy dobór i montaż systemów filtracyjnych, zmiękczania, demineralizacji i sterylizacji wody na podstawie analizy laboratoryjnej. Wykonywane przez nas instalacje technologiczne cechują się odpowiednią wytrzymałością ciśnieniową oraz zgodnie z obowiązującymi normami. Posiadają również wymagane atesty i dopuszczenia.",
+    "Współpracujemy z firmą MCD Electronics, która jest producentem szeroko pojętej elektroniki oraz systemów sterowania. Jest ona również producentem pomp ciepła marki Domito, dzięki czemu mamy możliwość doboru indywidualnej pompy ciepła o bardzo wysokiej sprawności w atrakcyjnej cenie oraz z pełnym serwisem gwarancyjnym z natychmiastowym czasem reakcji."
+  ],
+  "materialsLead": "Zaopatrujemy się w najlepszej jakości materiały producentów, takich jak:",
+  "materials": [
+    "Aquatherm",
+    "Grundfos",
+    "Wilo",
+    "Wavin",
+    "Georg Fischer",
+    "AFRISO",
+    "Reflex",
+    "Termik",
+    "Kospel"
+  ],
+  "certificatesHeading": "Certyfikaty firmy TZTECH",
+  "certificates": [
+    {
+      "title": "Certyfikat UDT FGAZ 1",
+      "image": "/images/certificates/Jarek.jpg"
+    },
+    {
+      "title": "Certyfikat UDT FGAZ 2",
+      "image": "/images/certificates/Dawid.jpg"
+    }
+  ],
+  "companyDataHeading": "Dane firmy",
+  "company": {
+    "name": "TZTECH Sp. z o.o.",
+    "addressLines": [
+      "ul. Gorska 15",
+      "34-324 Twardorzeczka"
+    ],
+    "contactLines": [
+      "Tel: 506 195 968",
+      "Email: biuro@tztech.pl"
+    ]
+  }
+}

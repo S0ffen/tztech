@@ -15,7 +15,6 @@ type Realization = {
   image: string;
   heroImage: string;
   link: string;
-  sourceLink: string;
   contentParagraphs: string[];
   contentBullets: string[];
 };

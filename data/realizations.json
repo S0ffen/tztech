@@ -1,249 +1,205 @@
 [
-    {
-        "id":  "r1",
-        "order":  1,
-        "slug":  "maszynownia-szkoly-podstawowej-w-dziergowicach",
-        "title":  "Maszynownia Szkoły Podstawowej w Dziergowicach",
-        "date":  "20 czerwca, 2024",
-        "excerpt":  "Wykonanie maszynowni w Szkole Podstawowej w Dziergowicach.",
-        "category":  "Inwestycje",
-        "image":  "/images/realizacje/realizacja-1.jpg",
-        "heroImage":  "/images/realizacje/details/maszynownia-szkoly-podstawowej-w-dziergowicach.jpg",
-        "link":  "/realizacje/maszynownia-szkoly-podstawowej-w-dziergowicach",
-        "sourceLink":  "https://tztech.pl/maszynownia-szkoly-podstawowej-w-dziergowicach/",
-        "contentParagraphs":  [
-                                  "Wykonanie maszynowni w Szkole Podstawowej w Dziergowicach, która towarzyszyła wymianie instalacji centralnego ogrzewania w szkole i na stołówce.",
-                                  "W ramach inwestycji w pomieszczeniu kotłowni zainstalowano pompę ciepła Domito HVAC o mocy 120 kilowatów. Automatyka pompy ciepła steruje 3 obiegami grzewczymi, które są sterowane zarówno z krzywej pogodowej jak i harmonogramu pracy. Ze względu na ograniczone przyłączycie elektryczne szkoły, pompa ciepła dogrzewa głównie budynek przed startem zajęć i magazynuje ciepło w buforach. W czasie pracy szkoły pobór energii elektrycznej jest monitorowany, a pompy ciepła uruchamiają się tak, ażeby maksymalnie wykorzystać dostępne przyłącze."
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r2",
-        "order":  2,
-        "slug":  "pompa-ciepla-dla-domu-pietrowego-o-mocy-6kw",
-        "title":  "Pompa ciepła dla domu piętrowego o mocy 6kW",
-        "date":  "18 czerwca, 2024",
-        "excerpt":  "Wykonanie montazu pompy ciepla o mocy 6 kW.",
-        "category":  "Indywidualna",
-        "image":  "/images/realizacje/realizacja-2.jpg",
-        "heroImage":  "/images/realizacje/details/pompa-ciepla-dla-domu-pietrowego-o-mocy-6kw.jpg",
-        "link":  "/realizacje/pompa-ciepla-dla-domu-pietrowego-o-mocy-6kw",
-        "sourceLink":  "https://tztech.pl/pompa-ciepla-dla-domu-pietrowego-o-mocy-6kw/",
-        "contentParagraphs":  [
-                                  "Wykonanie montażu pompy ciepła o mocy 6 kW marki Domito HVAC w nowym domu piętrowym o powierzchni 90 m².",
-                                  "Pompa ciepła odpowiada za przygotowanie ciepłej wody użytkowej oraz za centralne ogrzewania. Pompa ciepła ogrzewa bufor na zadane parametry, wynikający z krzywej pogodowej, natomiast z bufora ciepło dostarczane jest do grzejników za pomocą pompki obiegowej, która jest sterowana za pomocą sterownika pokojowego."
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r3",
-        "order":  3,
-        "slug":  "pompa-6-kw-w-domu-jednorodzinnym-dwupietrowym",
-        "title":  "Pompa 6 kW w domu jednorodzinnym dwupiętrowym",
-        "date":  "18 czerwca, 2024",
-        "excerpt":  "Montaz pompy ciepla o mocy 6 kW dla budynku mieszkalnego.",
-        "category":  "Indywidualna",
-        "image":  "/images/realizacje/realizacja-3.jpg",
-        "heroImage":  "/images/realizacje/details/pompa-6-kw-w-domu-jednorodzinnym-dwupietrowym.jpg",
-        "link":  "/realizacje/pompa-6-kw-w-domu-jednorodzinnym-dwupietrowym",
-        "sourceLink":  "https://tztech.pl/pompa-6-kw-w-domu-jednorodzinnym-dwupietrowym/",
-        "contentParagraphs":  [
-                                  "Wykonanie montażu pompy ciepła o mocy 6 kW marki Domito HVAC w nowym domu piętrowym o powierzchni 98 m².",
-                                  "Pompa ciepła odpowiada za przygotowanie ciepłej wody użytkowej oraz za centralne ogrzewania, które jest wykonane w całości jako ogrzewanie podłogowe, bezpośrednio podpięte do pompy ciepła, co pozwala na uzyskanie wysokich sprawności. Ze względu na to, że do pompy ciepła podpięto na osobnych obiegach ogrzewanie z parteru i ogrzewanie z piętra to pozwala na utrzymywanie różnych temperatur na piętrach."
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r4",
-        "order":  4,
-        "slug":  "przemyslowa-stacja-odwroconej-osmozy",
-        "title":  "Przemysłowa stacja odwróconej osmozy",
-        "date":  "18 czerwca, 2024",
-        "excerpt":  "Wykonanie stacji odwroconej osmozy o przeplywie 900 l/h.",
-        "category":  "Inwestycje",
-        "image":  "/images/realizacje/realizacja-4.jpg",
-        "heroImage":  "/images/realizacje/details/przemyslowa-stacja-odwroconej-osmozy.jpg",
-        "link":  "/realizacje/przemyslowa-stacja-odwroconej-osmozy",
-        "sourceLink":  "https://tztech.pl/przemyslowa-stacja-odwroconej-osmozy/",
-        "contentParagraphs":  [
-                                  "Wykonanie stacji odwróconej osmozy o przepływie 900L/h dla potrzeb technologicznych."
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r5",
-        "order":  5,
-        "slug":  "pompa-ciepla-6-kw-dla-domu-jednorodzinnego",
-        "title":  "Pompa ciepła 6 kW dla domu jednorodzinnego parterowego",
-        "date":  "18 czerwca, 2024",
-        "excerpt":  "Montaz pompy ciepla o mocy 6 kW i uruchomienie instalacji.",
-        "category":  "Indywidualna",
-        "image":  "/images/realizacje/realizacja-5.jpg",
-        "heroImage":  "/images/realizacje/details/pompa-ciepla-6-kw-dla-domu-jednorodzinnego.jpg",
-        "link":  "/realizacje/pompa-ciepla-6-kw-dla-domu-jednorodzinnego",
-        "sourceLink":  "https://tztech.pl/pompa-ciepla-6-kw-dla-domu-jednorodzinnego/",
-        "galleryImages":  [
-                              "/images/realizacje/details/r5/IMG_20211129_141125-scaled.jpg",
-                              "/images/realizacje/details/r5/IMG_20211129_141147-scaled.jpg",
-                              "/images/realizacje/details/r5/IMG_20211129_140927-scaled.jpg",
-                              "/images/realizacje/details/r5/IMG_20211129_140932-scaled.jpg",
-                              "/images/realizacje/details/r5/IMG_20211129_140951-scaled.jpg",
-                              "/images/realizacje/details/r5/IMG_20211129_141043-scaled.jpg"
-                          ],
-        "contentParagraphs":  [
-                                  "Wykonany został montaż pompy ciepła o mocy 6 kW marki Domito HVAC w nowym domu parterowym o powierzchni 130 m².",
-                                  "Pompa ciepła odpowiada za przygotowanie ciepłej wody użytkowej oraz za centralne ogrzewania, które jest bezpośrednio podpięte do pompy ciepła, co pozwala na uzyskanie wysokich sprawności.",
-                                  "Całość ogrzewania to instalacja podłogowa, która w zimie ogrzewa budynek, a w lecie chłodzi pasywnie przy użyciu pompy ciepła. Pomieszczenie maszynowni ma ma wymiary 1,6×1,8m."
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r6",
-        "order":  6,
-        "slug":  "pompa-ciepla-dla-klienta-indywidualnego-z-funkcja-chlodzenia-i-odzyskiem-ciepla",
-        "title":  "Pompa ciepłą dla klienta indywidualnego z funkcją chłodzenia i odzyskiem ciepła",
-        "date":  "18 czerwca, 2024",
-        "excerpt":  "Modernizacja maszynowni i przygotowanie ukladu do chlodzenia.",
-        "category":  "Inwestycje",
-        "image":  "/images/realizacje/realizacja-6.jpg",
-        "heroImage":  "/images/realizacje/details/pompa-ciepla-dla-klienta-indywidualnego-z-funkcja-chlodzenia-i-odzyskiem-ciepla.jpg",
-        "link":  "/realizacje/pompa-ciepla-dla-klienta-indywidualnego-z-funkcja-chlodzenia-i-odzyskiem-ciepla",
-        "sourceLink":  "https://tztech.pl/pompa-ciepla-dla-klienta-indywidualnego-z-funkcja-chlodzenia-i-odzyskiem-ciepla/",
-        "contentParagraphs":  [
-                                  "W trakcie prac zostało wykonana modernizacja maszynowni willi w Czerminie która obejmowała wymianę istniejącej pompy gruntowej o mocy 30 kW na pompę gruntową o mocy 80 kW, przerobienie obecnego systemu podgrzewania ciepłej wody użytkowej i basenu, który składał się z powietrznych pomp ciepła o mocy 2x11kW, eliminacje obecnego agregatu wody lodowej o mocy około 40 kilowatów, którego zastąpiły pompy ciepła z funkcją pasywnego jak i aktywnego chłodzenia. Wykonano również instalacje chłodzenia serwerowni, przy pomocy chłodu z pompy ciepła. Istniejące zbiorniki które uległy korozji zostały wymienione na zbiorniki wykonane ze stali nierdzewnej.",
-                                  "Obecny system realizuje 4 funkcje:",
-                                  "Dodatkowo automatyka obsługuje istniejące już pompy ciepła powietrzne o mocy 2 x 11 kW oraz 2 grzałki elektryczne awaryjne – jedną do ciepła technologicznego o mocy 9 kW i drugą do ciepłej wody użytkowej o mocy 6 kW. Automatyka maszynowni obejmuje sterowanie 9 zewnętrznymi pompami obiegowymi i 9 wewnętrznymi pompami obiegowymi, monitoring parametrów wejściowych i wyjściowych 3 buforów (C.O, C.T., W.L.) i jednego zasobnika CWU oraz sterowanie 5 przepustnicami z siłownikiem i 2 zaworami przełączającymi, które przełączają jednocześnie zasilania i powroty 4 obiegów. Cała instalacja została wykonana w izolacji PUR oraz dolne źródło i woda lodowa została wykonana w izolację kauczukowej ."
-                              ],
-        "contentBullets":  [
-                               "centralne ogrzewanie na niskim parametrze do 35 °C na ogrzewanie podłogowe,",
-                               "centralne ogrzewanie i ciepło technologiczne na wysokim parametrze 50-55 °C na potrzeby grzejników oraz technologii podgrzewania powietrza nawiewanego do basenu oraz ogrzewanie samego basenu za pomocą wymiennika JAD,",
-                               "podgrzewanie ciepłej u wody użytkowej za pomocą wymiennika ciepłej wody użytkowej",
-                               "zrzutu ciepła bezpośrednio do odwiertów w przypadku generowania chłodu aktywnie."
-                           ]
-    },
-    {
-        "id":  "r7",
-        "order":  7,
-        "slug":  "hala-sportowa-w-dziergowicach",
-        "title":  "Hala Sportowa w Dziergowicach",
-        "date":  "18 czerwca, 2024",
-        "excerpt":  "Wykonanie maszynowni dla nowopowstalej hali sportowej.",
-        "category":  "Inwestycje",
-        "image":  "/images/realizacje/realizacja-7.jpg",
-        "heroImage":  "/images/realizacje/details/hala-sportowa-w-dziergowicach.jpg",
-        "link":  "/realizacje/hala-sportowa-w-dziergowicach",
-        "sourceLink":  "https://tztech.pl/hala-sportowa-w-dziergowicach/",
-        "contentParagraphs":  [
-                                  "W ramach inwestycji wykonana została maszynownia w nowopowstałej Hali Sportowej w Dziergowicach, która była drugim etapem inwestycji modernizacji i rozbudowy szkoły w Dziergowicach.",
-                                  "W ramach inwestycji w pomieszczeniu kotłowni zainstalowano pompę ciepła Domito HVAC o mocy 70 kilowatów. Pompa realizuje dwie funkcje tj. centralnego ogrzewania i podgrzewania ciepłej wody użytkowej. Automatyka pompy ciepła steruje trzema różnymi obiegami grzewczymi : ogrzewanie podłogowe, ogrzewanie grzejnikowe oraz z ogrzewanie na centrale wentylacyjne. Ogrzewanie na potrzeby central wentylacyjnych zostało zrealizowane przy użyciu modułu ciepła technologicznego firmy Domito HVAC MCT 20, dzięki któremu rozdzielono obiegi i w centralach wentylacyjnych zastosowano glikol który uniemożliwia zamarznięcie wymiennika w zimie."
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r8",
-        "order":  8,
-        "slug":  "dezynfekcja-skazenia-biologicznego-w-budynku-prywatnym",
-        "title":  "Dezynfekcja skażenia biologicznego w budynku prywatnym",
-        "date":  "28 sierpnia, 2023",
-        "excerpt":  "Wykonana dezynfekcja instalacji po wykryciu skazenia biologicznego.",
-        "category":  "Indywidualna",
-        "image":  "/images/realizacje/realizacja-8.jpg",
-        "heroImage":  "/images/realizacje/details/dezynfekcja-skazenia-biologicznego-w-budynku-prywatnym.jpg",
-        "link":  "/realizacje/dezynfekcja-skazenia-biologicznego-w-budynku-prywatnym",
-        "sourceLink":  "https://tztech.pl/dezynfekcja-skazenia-biologicznego-w-budynku-prywatnym/",
-        "contentParagraphs":  [
-
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r9",
-        "order":  9,
-        "slug":  "modernizacja-wody-uzytkowej-oraz-kanalizacji-nowa-wies",
-        "title":  "Modernizacja wody użytkowej oraz kanalizacji Nowa Wieś",
-        "date":  "28 sierpnia, 2023",
-        "excerpt":  "Modernizacja instalacji wody uzytkowej i kanalizacji.",
-        "category":  "Inwestycje",
-        "image":  "/images/realizacje/realizacja-9.jpg",
-        "heroImage":  "/images/realizacje/details/modernizacja-wody-uzytkowej-oraz-kanalizacji-nowa-wies.jpg",
-        "link":  "/realizacje/modernizacja-wody-uzytkowej-oraz-kanalizacji-nowa-wies",
-        "sourceLink":  "https://tztech.pl/modernizacja-wody-uzytkowej-oraz-kanalizacji-nowa-wies/",
-        "contentParagraphs":  [
-
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r10",
-        "order":  10,
-        "slug":  "pompa-ciepla-o-mocy-20kw-dla-domu-jednorodzinnego-wegierska-gorka",
-        "title":  "Pompa ciepła o mocy 20kW dla domu jednorodzinnego Węgierska Górka",
-        "date":  "28 sierpnia, 2023",
-        "excerpt":  "Montaz pompy ciepla o mocy 20 kW marki Domito.",
-        "category":  "Indywidualna",
-        "image":  "/images/realizacje/realizacja-10.jpg",
-        "heroImage":  "/images/realizacje/details/pompa-ciepla-o-mocy-20kw-dla-domu-jednorodzinnego-wegierska-gorka.jpg",
-        "link":  "/realizacje/pompa-ciepla-o-mocy-20kw-dla-domu-jednorodzinnego-wegierska-gorka",
-        "sourceLink":  "https://tztech.pl/pompa-ciepla-o-mocy-20kw-dla-domu-jednorodzinnego-wegierska-gorka/",
-        "contentParagraphs":  [
-
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r11",
-        "order":  11,
-        "slug":  "pompa-ciepla-oraz-rekuperacja-z-funkcja-chlodzenia-z-pompy-ciepla-w-domu-jednorodzinnym-w-zywcu",
-        "title":  "Pompa ciepła oraz rekuperacja z funkcją chłodzenia z pompy ciepła w domu jednorodzinnym w Żywcu.",
-        "date":  "28 sierpnia, 2023",
-        "excerpt":  "Komplet instalacji CWU, ZWU, ogrzewania i rekuperacji.",
-        "category":  "Indywidualna",
-        "image":  "/images/realizacje/realizacja-11.jpg",
-        "heroImage":  "/images/realizacje/details/pompa-ciepla-oraz-rekuperacja-z-funkcja-chlodzenia-z-pompy-ciepla-w-domu-jednorodzinnym-w-zywcu.jpg",
-        "link":  "/realizacje/pompa-ciepla-oraz-rekuperacja-z-funkcja-chlodzenia-z-pompy-ciepla-w-domu-jednorodzinnym-w-zywcu",
-        "sourceLink":  "https://tztech.pl/pompa-ciepla-oraz-rekuperacja-z-funkcja-chlodzenia-z-pompy-ciepla-w-domu-jednorodzinnym-w-zywcu/",
-        "contentParagraphs":  [
-
-                              ],
-        "contentBullets":  [
-
-                           ]
-    },
-    {
-        "id":  "r12",
-        "order":  12,
-        "slug":  "modernizacja-kotlowni-w-domu-pomocy-spolecznej-ostoja-w-sosnicowicach",
-        "title":  "Modernizacja kotłowni w Domu Pomocy Społecznej „Ostoja” w Sośnicowicach",
-        "date":  "27 sierpnia, 2023",
-        "excerpt":  "Integracja obecnego systemu i przygotowanie cieplej wody uzytkowej.",
-        "category":  "Inwestycje",
-        "image":  "/images/realizacje/realizacja-12.jpg",
-        "heroImage":  "/images/realizacje/details/modernizacja-kotlowni-w-domu-pomocy-spolecznej-ostoja-w-sosnicowicach.jpg",
-        "link":  "/realizacje/modernizacja-kotlowni-w-domu-pomocy-spolecznej-ostoja-w-sosnicowicach",
-        "sourceLink":  "https://tztech.pl/modernizacja-kotlowni-w-domu-pomocy-spolecznej-ostoja-w-sosnicowicach/",
-        "contentParagraphs":  [
-
-                              ],
-        "contentBullets":  [
-
-                           ]
-    }
+  {
+    "id": "r1",
+    "order": 1,
+    "slug": "maszynownia-szkoly-podstawowej-w-dziergowicach",
+    "title": "Maszynownia Szkoły Podstawowej w Dziergowicach",
+    "date": "20 czerwca, 2024",
+    "excerpt": "Wykonanie maszynowni w Szkole Podstawowej w Dziergowicach.",
+    "category": "Inwestycje",
+    "image": "/images/realizacje/realizacja-1.jpg",
+    "heroImage": "/images/realizacje/details/maszynownia-szkoly-podstawowej-w-dziergowicach.jpg",
+    "link": "/realizacje/maszynownia-szkoly-podstawowej-w-dziergowicach",
+    "contentParagraphs": [
+      "Wykonanie maszynowni w Szkole Podstawowej w Dziergowicach, która towarzyszyła wymianie instalacji centralnego ogrzewania w szkole i na stołówce.",
+      "W ramach inwestycji w pomieszczeniu kotłowni zainstalowano pompę ciepła Domito HVAC o mocy 120 kilowatów. Automatyka pompy ciepła steruje 3 obiegami grzewczymi, które są sterowane zarówno z krzywej pogodowej jak i harmonogramu pracy. Ze względu na ograniczone przyłączycie elektryczne szkoły, pompa ciepła dogrzewa głównie budynek przed startem zajęć i magazynuje ciepło w buforach. W czasie pracy szkoły pobór energii elektrycznej jest monitorowany, a pompy ciepła uruchamiają się tak, ażeby maksymalnie wykorzystać dostępne przyłącze."
+    ],
+    "contentBullets": []
+  },
+  {
+    "id": "r2",
+    "order": 2,
+    "slug": "pompa-ciepla-dla-domu-pietrowego-o-mocy-6kw",
+    "title": "Pompa ciepła dla domu piętrowego o mocy 6kW",
+    "date": "18 czerwca, 2024",
+    "excerpt": "Wykonanie montazu pompy ciepla o mocy 6 kW.",
+    "category": "Indywidualna",
+    "image": "/images/realizacje/realizacja-2.jpg",
+    "heroImage": "/images/realizacje/details/pompa-ciepla-dla-domu-pietrowego-o-mocy-6kw.jpg",
+    "link": "/realizacje/pompa-ciepla-dla-domu-pietrowego-o-mocy-6kw",
+    "contentParagraphs": [
+      "Wykonanie montażu pompy ciepła o mocy 6 kW marki Domito HVAC w nowym domu piętrowym o powierzchni 90 m².",
+      "Pompa ciepła odpowiada za przygotowanie ciepłej wody użytkowej oraz za centralne ogrzewania. Pompa ciepła ogrzewa bufor na zadane parametry, wynikający z krzywej pogodowej, natomiast z bufora ciepło dostarczane jest do grzejników za pomocą pompki obiegowej, która jest sterowana za pomocą sterownika pokojowego."
+    ],
+    "contentBullets": []
+  },
+  {
+    "id": "r3",
+    "order": 3,
+    "slug": "pompa-6-kw-w-domu-jednorodzinnym-dwupietrowym",
+    "title": "Pompa 6 kW w domu jednorodzinnym dwupiętrowym",
+    "date": "18 czerwca, 2024",
+    "excerpt": "Montaz pompy ciepla o mocy 6 kW dla budynku mieszkalnego.",
+    "category": "Indywidualna",
+    "image": "/images/realizacje/realizacja-3.jpg",
+    "heroImage": "/images/realizacje/details/pompa-6-kw-w-domu-jednorodzinnym-dwupietrowym.jpg",
+    "link": "/realizacje/pompa-6-kw-w-domu-jednorodzinnym-dwupietrowym",
+    "contentParagraphs": [
+      "Wykonanie montażu pompy ciepła o mocy 6 kW marki Domito HVAC w nowym domu piętrowym o powierzchni 98 m².",
+      "Pompa ciepła odpowiada za przygotowanie ciepłej wody użytkowej oraz za centralne ogrzewania, które jest wykonane w całości jako ogrzewanie podłogowe, bezpośrednio podpięte do pompy ciepła, co pozwala na uzyskanie wysokich sprawności. Ze względu na to, że do pompy ciepła podpięto na osobnych obiegach ogrzewanie z parteru i ogrzewanie z piętra to pozwala na utrzymywanie różnych temperatur na piętrach."
+    ],
+    "contentBullets": []
+  },
+  {
+    "id": "r4",
+    "order": 4,
+    "slug": "przemyslowa-stacja-odwroconej-osmozy",
+    "title": "Przemysłowa stacja odwróconej osmozy",
+    "date": "18 czerwca, 2024",
+    "excerpt": "Wykonanie stacji odwroconej osmozy o przeplywie 900 l/h.",
+    "category": "Inwestycje",
+    "image": "/images/realizacje/realizacja-4.jpg",
+    "heroImage": "/images/realizacje/details/przemyslowa-stacja-odwroconej-osmozy.jpg",
+    "link": "/realizacje/przemyslowa-stacja-odwroconej-osmozy",
+    "contentParagraphs": [
+      "Wykonanie stacji odwróconej osmozy o przepływie 900L/h dla potrzeb technologicznych."
+    ],
+    "contentBullets": []
+  },
+  {
+    "id": "r5",
+    "order": 5,
+    "slug": "pompa-ciepla-6-kw-dla-domu-jednorodzinnego",
+    "title": "Pompa ciepła 6 kW dla domu jednorodzinnego parterowego",
+    "date": "18 czerwca, 2024",
+    "excerpt": "Montaz pompy ciepla o mocy 6 kW i uruchomienie instalacji.",
+    "category": "Indywidualna",
+    "image": "/images/realizacje/realizacja-5.jpg",
+    "heroImage": "/images/realizacje/details/pompa-ciepla-6-kw-dla-domu-jednorodzinnego.jpg",
+    "link": "/realizacje/pompa-ciepla-6-kw-dla-domu-jednorodzinnego",
+    "galleryImages": [
+      "/images/realizacje/details/r5/IMG_20211129_141125-scaled.jpg",
+      "/images/realizacje/details/r5/IMG_20211129_141147-scaled.jpg",
+      "/images/realizacje/details/r5/IMG_20211129_140927-scaled.jpg",
+      "/images/realizacje/details/r5/IMG_20211129_140932-scaled.jpg",
+      "/images/realizacje/details/r5/IMG_20211129_140951-scaled.jpg",
+      "/images/realizacje/details/r5/IMG_20211129_141043-scaled.jpg"
+    ],
+    "contentParagraphs": [
+      "Wykonany został montaż pompy ciepła o mocy 6 kW marki Domito HVAC w nowym domu parterowym o powierzchni 130 m².",
+      "Pompa ciepła odpowiada za przygotowanie ciepłej wody użytkowej oraz za centralne ogrzewania, które jest bezpośrednio podpięte do pompy ciepła, co pozwala na uzyskanie wysokich sprawności.",
+      "Całość ogrzewania to instalacja podłogowa, która w zimie ogrzewa budynek, a w lecie chłodzi pasywnie przy użyciu pompy ciepła. Pomieszczenie maszynowni ma ma wymiary 1,6×1,8m."
+    ],
+    "contentBullets": []
+  },
+  {
+    "id": "r6",
+    "order": 6,
+    "slug": "pompa-ciepla-dla-klienta-indywidualnego-z-funkcja-chlodzenia-i-odzyskiem-ciepla",
+    "title": "Pompa ciepłą dla klienta indywidualnego z funkcją chłodzenia i odzyskiem ciepła",
+    "date": "18 czerwca, 2024",
+    "excerpt": "Modernizacja maszynowni i przygotowanie ukladu do chlodzenia.",
+    "category": "Inwestycje",
+    "image": "/images/realizacje/realizacja-6.jpg",
+    "heroImage": "/images/realizacje/details/pompa-ciepla-dla-klienta-indywidualnego-z-funkcja-chlodzenia-i-odzyskiem-ciepla.jpg",
+    "link": "/realizacje/pompa-ciepla-dla-klienta-indywidualnego-z-funkcja-chlodzenia-i-odzyskiem-ciepla",
+    "contentParagraphs": [
+      "W trakcie prac zostało wykonana modernizacja maszynowni willi w Czerminie która obejmowała wymianę istniejącej pompy gruntowej o mocy 30 kW na pompę gruntową o mocy 80 kW, przerobienie obecnego systemu podgrzewania ciepłej wody użytkowej i basenu, który składał się z powietrznych pomp ciepła o mocy 2x11kW, eliminacje obecnego agregatu wody lodowej o mocy około 40 kilowatów, którego zastąpiły pompy ciepła z funkcją pasywnego jak i aktywnego chłodzenia. Wykonano również instalacje chłodzenia serwerowni, przy pomocy chłodu z pompy ciepła. Istniejące zbiorniki które uległy korozji zostały wymienione na zbiorniki wykonane ze stali nierdzewnej.",
+      "Obecny system realizuje 4 funkcje:",
+      "Dodatkowo automatyka obsługuje istniejące już pompy ciepła powietrzne o mocy 2 x 11 kW oraz 2 grzałki elektryczne awaryjne – jedną do ciepła technologicznego o mocy 9 kW i drugą do ciepłej wody użytkowej o mocy 6 kW. Automatyka maszynowni obejmuje sterowanie 9 zewnętrznymi pompami obiegowymi i 9 wewnętrznymi pompami obiegowymi, monitoring parametrów wejściowych i wyjściowych 3 buforów (C.O, C.T., W.L.) i jednego zasobnika CWU oraz sterowanie 5 przepustnicami z siłownikiem i 2 zaworami przełączającymi, które przełączają jednocześnie zasilania i powroty 4 obiegów. Cała instalacja została wykonana w izolacji PUR oraz dolne źródło i woda lodowa została wykonana w izolację kauczukowej ."
+    ],
+    "contentBullets": [
+      "centralne ogrzewanie na niskim parametrze do 35 °C na ogrzewanie podłogowe,",
+      "centralne ogrzewanie i ciepło technologiczne na wysokim parametrze 50-55 °C na potrzeby grzejników oraz technologii podgrzewania powietrza nawiewanego do basenu oraz ogrzewanie samego basenu za pomocą wymiennika JAD,",
+      "podgrzewanie ciepłej u wody użytkowej za pomocą wymiennika ciepłej wody użytkowej",
+      "zrzutu ciepła bezpośrednio do odwiertów w przypadku generowania chłodu aktywnie."
+    ]
+  },
+  {
+    "id": "r7",
+    "order": 7,
+    "slug": "hala-sportowa-w-dziergowicach",
+    "title": "Hala Sportowa w Dziergowicach",
+    "date": "18 czerwca, 2024",
+    "excerpt": "Wykonanie maszynowni dla nowopowstalej hali sportowej.",
+    "category": "Inwestycje",
+    "image": "/images/realizacje/realizacja-7.jpg",
+    "heroImage": "/images/realizacje/details/hala-sportowa-w-dziergowicach.jpg",
+    "link": "/realizacje/hala-sportowa-w-dziergowicach",
+    "contentParagraphs": [
+      "W ramach inwestycji wykonana została maszynownia w nowopowstałej Hali Sportowej w Dziergowicach, która była drugim etapem inwestycji modernizacji i rozbudowy szkoły w Dziergowicach.",
+      "W ramach inwestycji w pomieszczeniu kotłowni zainstalowano pompę ciepła Domito HVAC o mocy 70 kilowatów. Pompa realizuje dwie funkcje tj. centralnego ogrzewania i podgrzewania ciepłej wody użytkowej. Automatyka pompy ciepła steruje trzema różnymi obiegami grzewczymi : ogrzewanie podłogowe, ogrzewanie grzejnikowe oraz z ogrzewanie na centrale wentylacyjne. Ogrzewanie na potrzeby central wentylacyjnych zostało zrealizowane przy użyciu modułu ciepła technologicznego firmy Domito HVAC MCT 20, dzięki któremu rozdzielono obiegi i w centralach wentylacyjnych zastosowano glikol który uniemożliwia zamarznięcie wymiennika w zimie."
+    ],
+    "contentBullets": []
+  },
+  {
+    "id": "r8",
+    "order": 8,
+    "slug": "dezynfekcja-skazenia-biologicznego-w-budynku-prywatnym",
+    "title": "Dezynfekcja skażenia biologicznego w budynku prywatnym",
+    "date": "28 sierpnia, 2023",
+    "excerpt": "Wykonana dezynfekcja instalacji po wykryciu skazenia biologicznego.",
+    "category": "Indywidualna",
+    "image": "/images/realizacje/realizacja-8.jpg",
+    "heroImage": "/images/realizacje/details/dezynfekcja-skazenia-biologicznego-w-budynku-prywatnym.jpg",
+    "link": "/realizacje/dezynfekcja-skazenia-biologicznego-w-budynku-prywatnym",
+    "contentParagraphs": [],
+    "contentBullets": []
+  },
+  {
+    "id": "r9",
+    "order": 9,
+    "slug": "modernizacja-wody-uzytkowej-oraz-kanalizacji-nowa-wies",
+    "title": "Modernizacja wody użytkowej oraz kanalizacji Nowa Wieś",
+    "date": "28 sierpnia, 2023",
+    "excerpt": "Modernizacja instalacji wody uzytkowej i kanalizacji.",
+    "category": "Inwestycje",
+    "image": "/images/realizacje/realizacja-9.jpg",
+    "heroImage": "/images/realizacje/details/modernizacja-wody-uzytkowej-oraz-kanalizacji-nowa-wies.jpg",
+    "link": "/realizacje/modernizacja-wody-uzytkowej-oraz-kanalizacji-nowa-wies",
+    "contentParagraphs": [],
+    "contentBullets": []
+  },
+  {
+    "id": "r10",
+    "order": 10,
+    "slug": "pompa-ciepla-o-mocy-20kw-dla-domu-jednorodzinnego-wegierska-gorka",
+    "title": "Pompa ciepła o mocy 20kW dla domu jednorodzinnego Węgierska Górka",
+    "date": "28 sierpnia, 2023",
+    "excerpt": "Montaz pompy ciepla o mocy 20 kW marki Domito.",
+    "category": "Indywidualna",
+    "image": "/images/realizacje/realizacja-10.jpg",
+    "heroImage": "/images/realizacje/details/pompa-ciepla-o-mocy-20kw-dla-domu-jednorodzinnego-wegierska-gorka.jpg",
+    "link": "/realizacje/pompa-ciepla-o-mocy-20kw-dla-domu-jednorodzinnego-wegierska-gorka",
+    "contentParagraphs": [],
+    "contentBullets": []
+  },
+  {
+    "id": "r11",
+    "order": 11,
+    "slug": "pompa-ciepla-oraz-rekuperacja-z-funkcja-chlodzenia-z-pompy-ciepla-w-domu-jednorodzinnym-w-zywcu",
+    "title": "Pompa ciepła oraz rekuperacja z funkcją chłodzenia z pompy ciepła w domu jednorodzinnym w Żywcu.",
+    "date": "28 sierpnia, 2023",
+    "excerpt": "Komplet instalacji CWU, ZWU, ogrzewania i rekuperacji.",
+    "category": "Indywidualna",
+    "image": "/images/realizacje/realizacja-11.jpg",
+    "heroImage": "/images/realizacje/details/pompa-ciepla-oraz-rekuperacja-z-funkcja-chlodzenia-z-pompy-ciepla-w-domu-jednorodzinnym-w-zywcu.jpg",
+    "link": "/realizacje/pompa-ciepla-oraz-rekuperacja-z-funkcja-chlodzenia-z-pompy-ciepla-w-domu-jednorodzinnym-w-zywcu",
+    "contentParagraphs": [],
+    "contentBullets": []
+  },
+  {
+    "id": "r12",
+    "order": 12,
+    "slug": "modernizacja-kotlowni-w-domu-pomocy-spolecznej-ostoja-w-sosnicowicach",
+    "title": "Modernizacja kotłowni w Domu Pomocy Społecznej „Ostoja” w Sośnicowicach",
+    "date": "27 sierpnia, 2023",
+    "excerpt": "Integracja obecnego systemu i przygotowanie cieplej wody uzytkowej.",
+    "category": "Inwestycje",
+    "image": "/images/realizacje/realizacja-12.jpg",
+    "heroImage": "/images/realizacje/details/modernizacja-kotlowni-w-domu-pomocy-spolecznej-ostoja-w-sosnicowicach.jpg",
+    "link": "/realizacje/modernizacja-kotlowni-w-domu-pomocy-spolecznej-ostoja-w-sosnicowicach",
+    "contentParagraphs": [],
+    "contentBullets": []
+  }
 ]
