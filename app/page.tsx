@@ -26,9 +26,9 @@ const realizations = [...(realizationsData as Realization[])].sort((a, b) => a.o
 
 export default function Home() {
   return (
-    <div>
+    <div className="flex min-h-screen flex-col">
       <SiteNav />
-      <main>
+      <main className="flex-1">
         <section className="container-main pt-6 md:pt-8">
           <div className="relative isolate overflow-hidden rounded-none bg-slate-950 text-white md:rounded-sm">
             <div className="absolute inset-0">

@@ -3,9 +3,9 @@ import SiteFooter from "@/components/site-footer";
 
 export default function ContactPage() {
   return (
-    <div>
+    <div className="flex min-h-screen flex-col">
       <SiteNav />
-      <main className="container-main py-14">
+      <main className="container-main flex-1 py-14">
         <h1 className="text-4xl font-semibold">Kontakt</h1>
         <div className="mt-8 grid gap-6 lg:grid-cols-2">
           <section className="rounded-xl border border-slate-200 bg-white p-7 shadow-sm">

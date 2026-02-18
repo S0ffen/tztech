@@ -51,9 +51,9 @@ export default async function RealizationDetailsPage({
   const relatedItems = rotatedRealizations.filter((entry) => entry.slug !== item.slug).slice(0, 2);
 
   return (
-    <div>
+    <div className="flex min-h-screen flex-col">
       <SiteNav />
-      <main className="container-main py-14">
+      <main className="container-main flex-1 py-14">
         <article className="mx-auto max-w-5xl overflow-hidden rounded-sm border border-slate-200 bg-white shadow-sm">
           <Image
             src={item.heroImage || item.image}

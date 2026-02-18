@@ -3,9 +3,9 @@ import SiteFooter from "@/components/site-footer";
 
 export default function AboutPage() {
   return (
-    <div>
+    <div className="flex min-h-screen flex-col">
       <SiteNav />
-      <main className="container-main py-14">
+      <main className="container-main flex-1 py-14">
         <h1 className="text-4xl font-semibold">O nas</h1>
         <div className="mt-8 grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
           <article className="rounded-xl border border-slate-200 bg-white p-7 shadow-sm">

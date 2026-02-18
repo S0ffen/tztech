@@ -22,9 +22,9 @@ export default function ServicePageContent({ slug }: { slug: string }) {
   }
 
   return (
-    <div>
+    <div className="flex min-h-screen flex-col">
       <SiteNav />
-      <main className="container-main py-14">
+      <main className="container-main flex-1 py-14">
         <div className="grid gap-8 lg:grid-cols-[300px_1fr] lg:gap-14">
           <aside className="pt-2">
             <nav className="border-t border-[#223a82]">

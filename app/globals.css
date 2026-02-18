@@ -24,6 +24,23 @@ body {
 
 a { color: inherit; text-decoration: none; }
 
+.service-card-link {
+  color: #fff !important;
+}
+
+.group:hover .service-card-link {
+  color: #fff !important;
+}
+
+.service-card-link:hover {
+  background: #fff;
+  color: #000 !important;
+}
+
+.group:hover .service-card-link:hover {
+  color: #000 !important;
+}
+
 .container-main {
   width: min(75vw, 1600px);
   margin-inline: auto;
