@@ -124,7 +124,7 @@ export default async function RealizationDetailsPage({
               {previousItem ? (
                 <Link href={previousItem.link} className="group block">
                   <p className="text-xs uppercase tracking-[0.14em] text-[#223a82]">
-                    Poprzedni
+                    Poprzednia
                   </p>
                   <p className="mt-2 flex items-center gap-2 text-xl font-medium text-slate-500 transition-colors group-hover:text-[#223a82]">
                     <span aria-hidden>{`\u2039`}</span>
@@ -140,7 +140,7 @@ export default async function RealizationDetailsPage({
               {nextItem ? (
                 <Link href={nextItem.link} className="group block">
                   <p className="text-xs uppercase tracking-[0.14em] text-[#223a82]">
-                    Nastepny
+                    Nastepna
                   </p>
                   <p className="mt-2 flex items-center justify-end gap-2 text-xl font-medium text-slate-500 transition-colors group-hover:text-[#223a82]">
                     <span>{nextItem.title}</span>
@@ -163,7 +163,7 @@ export default async function RealizationDetailsPage({
             {relatedItems.map((related) => (
               <article
                 key={related.id}
-                className="overflow-hidden border border-slate-200 bg-white shadow-sm"
+                className="flex h-full flex-col overflow-hidden border border-slate-200 bg-white shadow-sm"
               >
                 <Link href={related.link} className="block">
                   <Image
@@ -174,7 +174,7 @@ export default async function RealizationDetailsPage({
                     className="h-64 w-full object-cover"
                   />
                 </Link>
-                <div className="border-b-[3px] border-[#223a82] p-6">
+                <div className="flex flex-1 flex-col border-b-[3px] border-[#223a82] p-6">
                   <h3 className="text-4xl font-semibold leading-tight text-slate-900">
                     {related.title}
                   </h3>
@@ -184,7 +184,7 @@ export default async function RealizationDetailsPage({
                   </p>
                   <Link
                     href={related.link}
-                    className="mt-6 inline-flex text-base text-slate-500 hover:text-[#223a82]"
+                    className="mt-auto pt-6 inline-flex text-base text-slate-500 hover:text-[#223a82]"
                   >
                     Czytaj wiecej...
                   </Link>

@@ -139,7 +139,7 @@ export default function Home() {
                   alt={item.title}
                   width={768}
                   height={420}
-                  className="h-52 w-full object-cover transition duration-500 hover:scale-105"
+                  className="h-52 w-full object-cover transition duration-500"
                 />
                 <div className="p-5">
                   <p className="text-xs uppercase tracking-[0.15em] text-slate-500">

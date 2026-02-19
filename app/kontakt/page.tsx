@@ -28,6 +28,17 @@ export default function ContactPage() {
             </p>
           </section>
         </div>
+
+        <section className="mt-8 overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
+          <iframe
+            title="Mapa dojazdu TZTECH"
+            src="https://www.google.com/maps?q=ul.%20Gorska%2015,%2034-324%20Twardorzeczka&output=embed"
+            className="h-[420px] w-full border-0"
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            allowFullScreen
+          />
+        </section>
       </main>
       <SiteFooter />
     </div>
